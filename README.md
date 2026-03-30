@@ -6,7 +6,7 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 🔗 Live Demo
 
-Try it here : games-pro-rock-paper.netlify.app
+Try it here : https://games-pro-rock-paper.netlify.app/
 
 🛠️ Tech Stack
 
